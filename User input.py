@@ -7,6 +7,6 @@ num= input("Enter a Number: ")
 print(int(num)+6)
 
 # More on strings
-harry = 69
+Rohan = 69
 Akash = 100
 
